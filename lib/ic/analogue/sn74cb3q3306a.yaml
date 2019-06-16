@@ -1,0 +1,16 @@
+name: SN74CB3Q3306A
+datasheet: http://www.ti.com/lit/ds/symlink/sn74cb3q3306a.pdf
+footprint: agg:TSSOP-8
+description: Dual High-Bandwidth FET Bus Switch
+ordercodes:
+  - [Farnell, '2342539']
+  - [Conrad, '1074835 - 62']
+pins:
+- - - [VCC, 8, pwrin]
+    - [GND, 4, pwrin]
+  - - [1A, 2, in]
+    - [1~OE, 1, in]
+  - - [2A, 5, in]
+    - [2~OE, 7, in]
+- - - [1B, 5, out]
+    - [2B, 8, out]

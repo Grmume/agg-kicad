@@ -1,0 +1,5 @@
+EESchema-DOCLIB  Version 2.0
+$CMP SN74CB3Q3306A
+D Dual High-Bandwidth FET Bus Switch
+F http://www.ti.com/lit/ds/symlink/sn74cb3q3306a.pdf
+$ENDCMP

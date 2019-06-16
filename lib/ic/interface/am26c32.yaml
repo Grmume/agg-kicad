@@ -1,0 +1,25 @@
+datasheet: http://www.ti.com/lit/ds/symlink/am26c32.pdf
+description: Quad RS422 receiver
+footprint: agg:SOIC-16
+name: AM26C32
+ordercodes:
+- [Farnell, '1121592']
+- [Mouser, '595-AM26C32QDR']
+pins:
+- - - [VCC, 16, pwrin]
+    - [GND, 8, pwrin]
+  - - [G, 4, in]
+    - [~G, 12, in]
+  - - [1A, 2, in]
+    - [1B, 1, in]
+  - - [2A, 6, in]
+    - [2B, 7, in]
+  - - [3A, 10, in]
+    - [3B, 9, in]
+  - - [4A, 14, in]
+    - [4B, 15, in]
+- - - [1Y, 3, out]
+  - - [2Y, 5, out]
+  - - [3Y, 11, out]
+  - - [4Y, 13, out]
+

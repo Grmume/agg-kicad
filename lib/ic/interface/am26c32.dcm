@@ -1,0 +1,5 @@
+EESchema-DOCLIB  Version 2.0
+$CMP AM26C32
+D Quad RS422 receiver
+F http://www.ti.com/lit/ds/symlink/am26c32.pdf
+$ENDCMP
